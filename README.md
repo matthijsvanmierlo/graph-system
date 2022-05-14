@@ -1,1 +1,1 @@
-# graph-system
+# Interactive Graph Builder
